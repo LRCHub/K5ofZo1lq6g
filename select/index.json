@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "捻くれ者",
+  "base_artist": "775",
+  "createdAt": "2025-12-07T14:33:23.769248Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "捻くれ者 (feat. R-指定)",
+      "artist": "775",
+      "has_synced": false,
+      "path": "select/pl_01_捻くれ者_(feat._R-指定)_775.txt"
+    }
+  ]
+}
